@@ -1,3 +1,3 @@
 # Sintaxis y Semántica de los Lenguajes 2023
-Repositorio Público para la entrega de trabajos prácticos
+Repositorio Público para la entrega de trabajos prácticos\n
 Legajo: 209-7450 / Verdún Bruno Ezequiel
